@@ -54,3 +54,14 @@ compose.override.yml
 
 # TanStack Router generated cache
 apps/web/.tanstack/
+
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
